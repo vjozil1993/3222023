@@ -9,7 +9,7 @@ h1 {
 
 }
 p  {
-  color: brown;
+  color: brown5;
   font-family: courier;
   font-size: 160%;
 }
