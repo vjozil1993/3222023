@@ -3,13 +3,13 @@
 <head>
 <style>
 h1 {
-  color: red;
+  color: yellow;
   font-family: verdana;
   font-size: 300%;
 
 }
 p  {
-  color: green;
+  color: violet;
   font-family: courier;
   font-size: 160%;
 }
